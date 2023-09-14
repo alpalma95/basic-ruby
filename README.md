@@ -26,3 +26,9 @@ Todo:
 
 - Implement edge cases and input validation
 - Implement tests
+
+## Bubble sort
+
+Link to the challenge: https://www.theodinproject.com/lessons/ruby-bubble-sort
+
+`ruby bubble_sort.rb`
