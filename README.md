@@ -20,6 +20,8 @@ Link to the challenge: https://www.theodinproject.com/lessons/ruby-sub-strings
 
 Link to the challenge: https://www.theodinproject.com/lessons/ruby-stock-picker
 
+`ruby stock_picker.rb`
+
 Todo:
 
 - Implement edge cases and input validation
