@@ -14,7 +14,6 @@ def bubble_sort(arr = SAMPLE)
         arr[i], arr[i + 1] = arr[i + 1], arr[i]
         count += 1
       end
-
     end
 
     if count == 0
@@ -25,7 +24,6 @@ def bubble_sort(arr = SAMPLE)
   end
 
   print arr
-
 end
 
 bubble_sort [1, 86, 33, 99, 1, 3, 4, 6, 56, 69]
