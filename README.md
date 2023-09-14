@@ -1,11 +1,17 @@
-# Caesar Cipher
+# The Odin Project: Basic Ruby Projects
 
-## The Odin Project
+Challenges proposed in the Ruby full stack development career path on The Odin Project.
 
-Challenge proposed in the Ruby full stack development career path on The Odin Project. Link to the challenge [here](https://www.theodinproject.com/lessons/ruby-caesar-cipher).
+Fun, simple projects for practising Ruby's basic syntax.
 
-Fun, simple project. I didn't event take advantage of Ruby's OOP paradigm. This basically aims at practising Ruby's basic syntax.
+## Caesar Cipher
 
-### Run this project
+Link to the challenge: https://www.theodinproject.com/lessons/ruby-caesar-cipher
 
-Clone this repo / download the main file and run `ruby main.rb`.
+`ruby caesar_cipher.rb`
+
+## Sub Strings
+
+Link to the challenge: https://www.theodinproject.com/lessons/ruby-sub-strings
+
+`ruby substrings.rb`
